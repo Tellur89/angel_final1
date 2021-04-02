@@ -832,7 +832,7 @@ body {
       background-image: url(../img/img5.jpg); }
     .grid__item--6 {
       grid-area: 3/9/8/-1;
-      background-image: linear-gradient(rgba(137, 168, 201, 0.55), rgba(78, 124, 173, 0.5), rgba(137, 168, 201, 0.55)), url(../img/img6.jpg);
+      background-image: linear-gradient(rgba(137, 168, 201, 0.55), rgba(78, 124, 173, 0.5), rgba(137, 168, 201, 0.55)), url(../img/img6.JPG);
       background-size: cover;
       background-position: 50% 80%; }
     .grid__item--9 {
@@ -921,7 +921,7 @@ body {
       background-size: cover;
       background-position: 50% 80%; }
     .grid-menus__item--4 {
-      background-image: linear-gradient(rgba(137, 168, 201, 0.55), rgba(78, 124, 173, 0.5), rgba(137, 168, 201, 0.55)), url(../img/kids.jpg); }
+      background-image: linear-gradient(rgba(137, 168, 201, 0.55), rgba(78, 124, 173, 0.5), rgba(137, 168, 201, 0.55)), url(../img/kids.JPG); }
     .grid-menus__item--5 {
       background-image: linear-gradient(rgba(137, 168, 201, 0.55), rgba(78, 124, 173, 0.5), rgba(137, 168, 201, 0.55)), url(../img/gluten.jpg);
       background-position: 30% 50%; }
